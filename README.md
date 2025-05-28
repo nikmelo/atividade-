@@ -1,4 +1,4 @@
-Aqui vai um exemplo de implementação do algoritmo Bubble Sort em C# para ordenar os algarismos:
+
 
 ```
 using System;
@@ -46,7 +46,6 @@ class Program
 }
 ```
 
-Este código define um array de inteiros, imprime o array antes da ordenação, ordena o array usando o algoritmo Bubble Sort e, por fim, imprime o array ordenado. O Bubble Sort funciona comparando cada par de elementos adjacentes e trocando-os se estiverem na ordem errada. Esse processo é repetido até que o array esteja ordenado.
 
 A saída será:
 
